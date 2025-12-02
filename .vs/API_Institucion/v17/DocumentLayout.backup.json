@@ -1,0 +1,270 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\daqui\\OneDrive\\Desktop\\Institucion\\API_Institucion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93F50B7B-40C0-4717-BBE7-1D901F4414A7}|API_Institucion.csproj|c:\\users\\daqui\\onedrive\\desktop\\institucion\\api_institucion\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93F50B7B-40C0-4717-BBE7-1D901F4414A7}|API_Institucion.csproj|solutionrelative:controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93F50B7B-40C0-4717-BBE7-1D901F4414A7}|API_Institucion.csproj|c:\\users\\daqui\\onedrive\\desktop\\institucion\\api_institucion\\datos\\dtos\\materiadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93F50B7B-40C0-4717-BBE7-1D901F4414A7}|API_Institucion.csproj|solutionrelative:datos\\dtos\\materiadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93F50B7B-40C0-4717-BBE7-1D901F4414A7}|API_Institucion.csproj|c:\\users\\daqui\\onedrive\\desktop\\institucion\\api_institucion\\persistencia\\conexion_db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93F50B7B-40C0-4717-BBE7-1D901F4414A7}|API_Institucion.csproj|solutionrelative:persistencia\\conexion_db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93F50B7B-40C0-4717-BBE7-1D901F4414A7}|API_Institucion.csproj|c:\\users\\daqui\\onedrive\\desktop\\institucion\\api_institucion\\datos\\materia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93F50B7B-40C0-4717-BBE7-1D901F4414A7}|API_Institucion.csproj|solutionrelative:datos\\materia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93F50B7B-40C0-4717-BBE7-1D901F4414A7}|API_Institucion.csproj|c:\\users\\daqui\\onedrive\\desktop\\institucion\\api_institucion\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93F50B7B-40C0-4717-BBE7-1D901F4414A7}|API_Institucion.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93F50B7B-40C0-4717-BBE7-1D901F4414A7}|API_Institucion.csproj|c:\\users\\daqui\\onedrive\\desktop\\institucion\\api_institucion\\datos\\dtos\\alumnocomision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93F50B7B-40C0-4717-BBE7-1D901F4414A7}|API_Institucion.csproj|solutionrelative:datos\\dtos\\alumnocomision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93F50B7B-40C0-4717-BBE7-1D901F4414A7}|API_Institucion.csproj|c:\\users\\daqui\\onedrive\\desktop\\institucion\\api_institucion\\datos\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93F50B7B-40C0-4717-BBE7-1D901F4414A7}|API_Institucion.csproj|solutionrelative:datos\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93F50B7B-40C0-4717-BBE7-1D901F4414A7}|API_Institucion.csproj|c:\\users\\daqui\\onedrive\\desktop\\institucion\\api_institucion\\datos\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93F50B7B-40C0-4717-BBE7-1D901F4414A7}|API_Institucion.csproj|solutionrelative:datos\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93F50B7B-40C0-4717-BBE7-1D901F4414A7}|API_Institucion.csproj|c:\\users\\daqui\\onedrive\\desktop\\institucion\\api_institucion\\controllers\\carrerascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93F50B7B-40C0-4717-BBE7-1D901F4414A7}|API_Institucion.csproj|solutionrelative:controllers\\carrerascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93F50B7B-40C0-4717-BBE7-1D901F4414A7}|API_Institucion.csproj|c:\\users\\daqui\\onedrive\\desktop\\institucion\\api_institucion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93F50B7B-40C0-4717-BBE7-1D901F4414A7}|API_Institucion.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93F50B7B-40C0-4717-BBE7-1D901F4414A7}|API_Institucion.csproj|c:\\users\\daqui\\onedrive\\desktop\\institucion\\api_institucion\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{93F50B7B-40C0-4717-BBE7-1D901F4414A7}|API_Institucion.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93F50B7B-40C0-4717-BBE7-1D901F4414A7}|API_Institucion.csproj|c:\\users\\daqui\\onedrive\\desktop\\institucion\\api_institucion\\datos\\institucion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93F50B7B-40C0-4717-BBE7-1D901F4414A7}|API_Institucion.csproj|solutionrelative:datos\\institucion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93F50B7B-40C0-4717-BBE7-1D901F4414A7}|API_Institucion.csproj|c:\\users\\daqui\\onedrive\\desktop\\institucion\\api_institucion\\datos\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93F50B7B-40C0-4717-BBE7-1D901F4414A7}|API_Institucion.csproj|solutionrelative:datos\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93F50B7B-40C0-4717-BBE7-1D901F4414A7}|API_Institucion.csproj|c:\\users\\daqui\\onedrive\\desktop\\institucion\\api_institucion\\api_institucion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{93F50B7B-40C0-4717-BBE7-1D901F4414A7}|API_Institucion.csproj|solutionrelative:api_institucion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93F50B7B-40C0-4717-BBE7-1D901F4414A7}|API_Institucion.csproj|c:\\users\\daqui\\onedrive\\desktop\\institucion\\api_institucion\\datos\\carrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93F50B7B-40C0-4717-BBE7-1D901F4414A7}|API_Institucion.csproj|solutionrelative:datos\\carrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MateriaDto.cs",
+              "DocumentMoniker": "C:\\Users\\daqui\\OneDrive\\Desktop\\Institucion\\API_Institucion\\Datos\\Dtos\\MateriaDto.cs",
+              "RelativeDocumentMoniker": "Datos\\Dtos\\MateriaDto.cs",
+              "ToolTip": "C:\\Users\\daqui\\OneDrive\\Desktop\\Institucion\\API_Institucion\\Datos\\Dtos\\MateriaDto.cs",
+              "RelativeToolTip": "Datos\\Dtos\\MateriaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T21:08:53.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Materia.cs",
+              "DocumentMoniker": "C:\\Users\\daqui\\OneDrive\\Desktop\\Institucion\\API_Institucion\\Datos\\Materia.cs",
+              "RelativeDocumentMoniker": "Datos\\Materia.cs",
+              "ToolTip": "C:\\Users\\daqui\\OneDrive\\Desktop\\Institucion\\API_Institucion\\Datos\\Materia.cs",
+              "RelativeToolTip": "Datos\\Materia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T02:33:17.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\daqui\\OneDrive\\Desktop\\Institucion\\API_Institucion\\Datos\\Usuario.cs",
+              "RelativeDocumentMoniker": "Datos\\Usuario.cs",
+              "ToolTip": "C:\\Users\\daqui\\OneDrive\\Desktop\\Institucion\\API_Institucion\\Datos\\Usuario.cs",
+              "RelativeToolTip": "Datos\\Usuario.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T17:29:06.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AlumnoComision.cs",
+              "DocumentMoniker": "C:\\Users\\daqui\\OneDrive\\Desktop\\Institucion\\API_Institucion\\Datos\\Dtos\\AlumnoComision.cs",
+              "RelativeDocumentMoniker": "Datos\\Dtos\\AlumnoComision.cs",
+              "ToolTip": "C:\\Users\\daqui\\OneDrive\\Desktop\\Institucion\\API_Institucion\\Datos\\Dtos\\AlumnoComision.cs",
+              "RelativeToolTip": "Datos\\Dtos\\AlumnoComision.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T20:40:14.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "API_Institucion.csproj",
+              "DocumentMoniker": "C:\\Users\\daqui\\OneDrive\\Desktop\\Institucion\\API_Institucion\\API_Institucion.csproj",
+              "RelativeDocumentMoniker": "API_Institucion.csproj",
+              "ToolTip": "C:\\Users\\daqui\\OneDrive\\Desktop\\Institucion\\API_Institucion\\API_Institucion.csproj",
+              "RelativeToolTip": "API_Institucion.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-30T20:11:34.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UsuarioDto.cs",
+              "DocumentMoniker": "C:\\Users\\daqui\\OneDrive\\Desktop\\Institucion\\API_Institucion\\Datos\\Dtos\\UsuarioDto.cs",
+              "RelativeDocumentMoniker": "Datos\\Dtos\\UsuarioDto.cs",
+              "ToolTip": "C:\\Users\\daqui\\OneDrive\\Desktop\\Institucion\\API_Institucion\\Datos\\Dtos\\UsuarioDto.cs",
+              "RelativeToolTip": "Datos\\Dtos\\UsuarioDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T19:48:04.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Conexion_Db.cs",
+              "DocumentMoniker": "C:\\Users\\daqui\\OneDrive\\Desktop\\Institucion\\API_Institucion\\Persistencia\\Conexion_Db.cs",
+              "RelativeDocumentMoniker": "Persistencia\\Conexion_Db.cs",
+              "ToolTip": "C:\\Users\\daqui\\OneDrive\\Desktop\\Institucion\\API_Institucion\\Persistencia\\Conexion_Db.cs",
+              "RelativeToolTip": "Persistencia\\Conexion_Db.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T18:49:57.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\daqui\\OneDrive\\Desktop\\Institucion\\API_Institucion\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\daqui\\OneDrive\\Desktop\\Institucion\\API_Institucion\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAASwBsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T18:05:19.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\daqui\\OneDrive\\Desktop\\Institucion\\API_Institucion\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\daqui\\OneDrive\\Desktop\\Institucion\\API_Institucion\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAWwD4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T17:27:07.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\daqui\\OneDrive\\Desktop\\Institucion\\API_Institucion\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\daqui\\OneDrive\\Desktop\\Institucion\\API_Institucion\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-24T14:51:57.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CarrerasController.cs",
+              "DocumentMoniker": "C:\\Users\\daqui\\OneDrive\\Desktop\\Institucion\\API_Institucion\\Controllers\\CarrerasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CarrerasController.cs",
+              "ToolTip": "C:\\Users\\daqui\\OneDrive\\Desktop\\Institucion\\API_Institucion\\Controllers\\CarrerasController.cs",
+              "RelativeToolTip": "Controllers\\CarrerasController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T15:06:26.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Rol.cs",
+              "DocumentMoniker": "C:\\Users\\daqui\\OneDrive\\Desktop\\Institucion\\API_Institucion\\Datos\\Rol.cs",
+              "RelativeDocumentMoniker": "Datos\\Rol.cs",
+              "ToolTip": "C:\\Users\\daqui\\OneDrive\\Desktop\\Institucion\\API_Institucion\\Datos\\Rol.cs",
+              "RelativeToolTip": "Datos\\Rol.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwA0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T22:05:45.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Institucion.cs",
+              "DocumentMoniker": "C:\\Users\\daqui\\OneDrive\\Desktop\\Institucion\\API_Institucion\\Datos\\Institucion.cs",
+              "RelativeDocumentMoniker": "Datos\\Institucion.cs",
+              "ToolTip": "C:\\Users\\daqui\\OneDrive\\Desktop\\Institucion\\API_Institucion\\Datos\\Institucion.cs",
+              "RelativeToolTip": "Datos\\Institucion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T14:59:46.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Carrera.cs",
+              "DocumentMoniker": "C:\\Users\\daqui\\OneDrive\\Desktop\\Institucion\\API_Institucion\\Datos\\Carrera.cs",
+              "RelativeDocumentMoniker": "Datos\\Carrera.cs",
+              "ToolTip": "C:\\Users\\daqui\\OneDrive\\Desktop\\Institucion\\API_Institucion\\Datos\\Carrera.cs",
+              "RelativeToolTip": "Datos\\Carrera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T14:57:38.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\daqui\\OneDrive\\Desktop\\Institucion\\API_Institucion\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\daqui\\OneDrive\\Desktop\\Institucion\\API_Institucion\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAACEAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T14:49:15.422Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

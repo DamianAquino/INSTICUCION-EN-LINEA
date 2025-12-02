@@ -1,0 +1,14 @@
+﻿namespace API_Institucion.Datos.Dtos
+{
+    public class MateriaDto
+    {
+        public string Nombre;
+        public int CarreraId;
+
+        public MateriaDto(string nombre, int carreraId)
+        {
+            Nombre = nombre;
+            CarreraId = carreraId;
+        }
+    }
+}
